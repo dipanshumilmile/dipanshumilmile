@@ -62,15 +62,15 @@ const dipanshu = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dipanshumilmile&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=00c9a7&text_color=333333&icon_color=ff6b35" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dipanshumilmile&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=00c9a7&text_color=ffffff&icon_color=ff6b35&bg_color=0d1117" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshumilmile&theme=transparent&hide_border=true&layout=compact&title_color=00c9a7&text_color=333333" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshumilmile&theme=dark&hide_border=true&layout=compact&title_color=00c9a7&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=dipanshumilmile&theme=transparent&hide_border=true&ring=00c9a7&fire=ff6b35&currStreakLabel=00c9a7&dates=888888" />
+<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=dipanshumilmile&theme=dark&hide_border=true&ring=00c9a7&fire=ff6b35&currStreakLabel=00c9a7&background=0d1117&dates=aaaaaa&sideLabels=ffffff" />
 
 </div>
 
@@ -80,7 +80,7 @@ const dipanshu = {
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=dipanshumilmile&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true&title_color=00c9a7&text_color=333333)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=dipanshumilmile&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
